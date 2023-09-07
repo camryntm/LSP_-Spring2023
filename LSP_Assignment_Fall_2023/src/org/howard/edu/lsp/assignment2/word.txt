@@ -1,0 +1,5 @@
+This is a simple example of a text file.
+It contains several words, including words with capitalization like Design and design.
+It also includes some numbers like 100 and 200.
+Contractions like don't and can't are present as well.
+Some trivial words, such as a, an, the, of, and it, should be ignored.
