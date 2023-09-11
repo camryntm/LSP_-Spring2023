@@ -5,7 +5,7 @@ import org.howard.edu.lsp.assigment4.IntegerSet.IntegerSetException;
 /**
  * A driver class to test the IntegerSet class and its methods.
  * 
- * @author Your Name
+ * @author Camryn Turner-Markes
  */
 public class Driver {
 
